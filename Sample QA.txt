@@ -1,0 +1,19 @@
+1. What is Rag
+RAG (Retrieval-Augmented Generation) is a technique that combines the strengths of information retrieval and generative models. It works by first retrieving relevant documents or passages based on an input query, and then using a generative model to produce an answer conditioned on those retrieved pieces of information. This allows the model to generate more accurate and contextually relevant responses by leveraging external knowledge.
+
+2. Main Components of RAG
+The main components of a Retrieval-Augmented Generation (RAG) model are:
+
+Retriever: Fetches relevant documents or passages based on the input query.
+Generator: Takes the retrieved documents and the query to generate a coherent and contextually relevant response.
+Knowledge Datastore: A large collection of documents or passages that the retriever searches through to find relevant information.
+
+3. Explain Indexing
+Indexing is a process used to optimize the speed and efficiency of data retrieval in databases. It involves creating an index, which is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage to maintain the index data structure. Essentially, indexing allows the database to find and access specific rows much faster, similar to how an index in a book helps you quickly locate information.
+
+4. difference between indexing and retrieval and generation as tabular column
+
+Indexing is the process of adding documents or data to a search engine or database in a structured format to facilitate quick retrieval. Retrieval is the act of searching for and extracting relevant information from the indexed data based on a query. Generation, in contrast, involves creating new data or content, often using models like language models, rather than simply finding existing data.
+
+5. explain loading documents in rag
+In Retrieval-Augmented Generation (RAG), loading documents typically involves integrating external data sources to enhance the model's knowledge base. This process allows the model to retrieve relevant information from these documents to provide more accurate and context-specific responses. The documents are indexed and stored in a way that enables efficient retrieval during the question-answering process.
