@@ -107,6 +107,9 @@ The model and embeddings can be swapped with other Hugging Face models or custom
 - **MISTRAL_API_KEY**: API key for accessing Mistral services.
 - **LANGCHAIN_API_KEY**: Key for using Langchain services and documents.
 
+![image](https://github.com/user-attachments/assets/66b00a51-f963-455b-b058-bc6b11593d3d)
+
+
 ## **Contributing**
 
 If you'd like to contribute to this project, feel free to fork the repository and create a pull request. We welcome contributions to improve the codebase, fix bugs, and enhance the user experience.
