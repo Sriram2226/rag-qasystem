@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+langchain-mistralai
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+langchain-community
+langgraph
+requests
+pysqlite3-binary
